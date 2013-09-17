@@ -20,7 +20,7 @@
     <![endif]-->
   </head>
   <body>
-    <h1>Hello, world!</h1>
+    <h1>Hello, Bootstrap 2 world!</h1>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="//code.jquery.com/jquery.js"></script>
@@ -28,6 +28,6 @@
     <script src="js/bootstrap.min.js"></script>
 
     <!-- Include all custom Js lib from here -->
-    
+
   </body>
 </html>
