@@ -20,6 +20,7 @@
     <![endif]-->
   </head>
   <body>
+    <?php include_once 'nav.php'; ?>
     <h1>Hello, Bootstrap 2 world!</h1>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
