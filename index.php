@@ -21,6 +21,7 @@
   </head>
   <body>
     <?php include_once 'nav.php'; ?>
+    <?php include_once 'slider.php'; ?>
     <h1>Hello, Bootstrap 2 world!</h1>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
