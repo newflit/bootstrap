@@ -1,3 +1,6 @@
+<?php 
+  include_once 'config/bootstrap.php';
+?>
 <!DOCTYPE html>
 <html>
   <head>
@@ -22,8 +25,8 @@
   <body>
     <?php include_once 'nav.php'; ?>
     <?php include_once 'slider.php'; ?>
-    <h1>Hello, Bootstrap 2 world!</h1>
-
+    <h1></h1>
+    <?php echo HTML::Image(); ?>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="//code.jquery.com/jquery.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->

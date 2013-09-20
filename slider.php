@@ -9,7 +9,9 @@
       </ol>
       <div class="carousel-inner">
         <div class="item active">
-          <img src="data:image/png;base64," data-src="holder.js/100%x500/auto/#777:#7a7a7a/text:First slide" alt="First slide">
+          <?php 
+            echo HTML::Image(array('src'=>'slider/image1.jpg','alt'=>'First slide'));
+          ?>
           <div class="container">
             <div class="carousel-caption">
               <h1>Example headline.</h1>
